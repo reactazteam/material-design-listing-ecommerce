@@ -1,0 +1,32 @@
+{
+  "name": "ecommercematerialtheme",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "build": "flow-remove-types src/ -d lib/",
+    "start": "node node_modules/react-native/local-cli/cli.js start",
+    "test": "jest",
+    "prepublish": "yarn run build"
+  },
+  "dependencies": {
+    "react": "16.0.0-alpha.6",
+    "react-native": "0.44.0",
+    "react-native-image-slider": "^1.1.5",
+    "react-native-tab-navigator": "^0.3.3",
+    "react-native-vector-icons": "^4.1.1",
+    "react-navigation": "^1.0.0-beta.9"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.24.1",
+    "babel-jest": "20.0.1",
+    "babel-preset-flow": "^6.23.0",
+    "babel-preset-react-native": "1.9.1",
+    "flow-bin": "^0.47.0",
+    "flow-remove-types": "^1.2.1",
+    "jest": "20.0.1",
+    "react-test-renderer": "16.0.0-alpha.6"
+  },
+  "jest": {
+    "preset": "react-native"
+  }
+}

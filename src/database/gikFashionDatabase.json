@@ -1,0 +1,44 @@
+[
+  {
+    "name": "NEW IN",
+    "description": "Expect an intimate venue with the ambience of a private club. The mood is casual, the guests sublime.",
+    "image": {
+      "url": "https://static-reg.lximg.com/images/billboards/IT-Cosmetics_Brand-Page-Banner_bcee28bcbf024e64e6dd876618d45818f5174a12_1463540537.jpg"
+    }
+  },
+  {
+    "name": "WOMEN",
+    "description": "Expect an intimate venue with the ambience of a private club. The mood is casual, the guests sublime.",
+    "image": {
+      "url": "https://static-reg.lximg.com/images/billboards/SGMY_IWD_234CustomerTopRated_brandpagebanner_f292ad2727a86c5bc7fc8a4a648125dfaa6a64f1_1488897795.jpg"
+    }
+  },
+  {
+    "name": "MEN",
+    "description": "Expect an intimate venue with the ambience of a private club. The mood is casual, the guests sublime.",
+    "image": {
+      "url": "https://www.sephora.com/contentimages/categories/giftcard/gifts_category_giftcard_banner_image.jpg"
+    }
+  },
+  {
+    "name": "NEW IN",
+    "description": "Expect an intimate venue with the ambience of a private club. The mood is casual, the guests sublime.",
+    "image": {
+      "url": "https://www.sephora.com/contentimages/sephorafavorites/fragrance/SF_Banner.jpg"
+    }
+  },
+  {
+    "name": "MEN",
+    "description": "Expect an intimate venue with the ambience of a private club. The mood is casual, the guests sublime.",
+    "image": {
+      "url": "https://static-reg.lximg.com/images/billboards/Ciate_Banner_767324678647e31666a975d357930dbdd1e32c3c_1454060519_767324678647e31666a975d357930dbdd1e32c3c_1457676914.jpg"
+    }
+  },
+  {
+    "name": "WOMEN",
+    "description": "Expect an intimate venue with the ambience of a private club. The mood is casual, the guests sublime.",
+    "image": {
+      "url": "https://m.sephora.ae/wysiwyg/cms_pages/Discover_sephora_card_program..jpg"
+    }
+  }
+]

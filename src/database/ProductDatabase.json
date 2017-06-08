@@ -1,0 +1,82 @@
+[
+  {
+    "productName": "White Keyhole",
+    "vendor":"ReactAZ",
+    "productDesc":"Thea",
+    "productPriceIns": "69.90",
+    "productPriceDel": "$86.72",
+    "productImages":{
+      "url": "https://www.sephora.com/productimages/sku/s1919729-main-Lhero.jpg"
+    }
+  },
+  {
+    "productName": "Cartoon Print",
+    "vendor":"ReactAZ",
+    "productDesc":"",
+    "productPriceIns": "69.90",
+    "productPriceDel": "",
+    "productImages":{
+      "url": "https://www.sephora.com/productimages/sku/s1902014-main-Lhero.jpg"
+    }
+  },
+  {
+    "productName": "Green Blouse",
+    "vendor":"ReactAZ",
+    "productDesc":"",
+    "productPriceIns": "69.90",
+    "productPriceDel": "",
+    "productImages":{
+      "url": "https://www.sephora.com/productimages/sku/s1900315-main-Lhero.jpg"
+    }
+  },
+  {
+    "productName": "Striped Blouse",
+    "vendor":"ReactAZ",
+    "productDesc":"",
+    "productPriceIns": "69.90",
+    "productPriceDel": "",
+    "productImages":{
+      "url": "https://www.sephora.com/productimages/sku/s1898998-main-Lhero.jpg"
+    }
+  },
+  {
+    "productName": "Hooded Sweatshirt",
+    "vendor":"ReactAZ",
+    "productDesc":"",
+    "productPriceIns": "69.90",
+    "productPriceDel": "",
+    "productImages":{
+      "url": "https://www.sephora.com/productimages/sku/s1835339-main-Lhero.jpg"
+    }
+  },
+  {
+    "productName": "Burgundy Varsity",
+    "vendor":"ReactAZ",
+    "productDesc":"",
+    "productPriceIns": "69.90",
+    "productPriceDel": "",
+    "productImages":{
+      "url": "https://www.sephora.com/productimages/sku/s1893387-main-Lhero.jpg"
+    }
+  },
+  {
+    "productName": "Grey Raglan",
+    "vendor":"ReactAZ",
+    "productDesc":"",
+    "productPriceIns": "69.90",
+    "productPriceDel": "",
+    "productImages":{
+      "url": "https://www.sephora.com/productimages/sku/s1933258-main-Lhero.jpg"
+    }
+  },
+  {
+    "productName": "Black Letters",
+    "vendor":"ReactAZ",
+    "productDesc":"",
+    "productPriceIns": "69.90",
+    "productPriceDel": "",
+    "productImages":{
+      "url": "https://www.sephora.com/productimages/sku/s1930429-main-Lhero.jpg"
+    }
+  }
+]
