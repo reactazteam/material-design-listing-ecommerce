@@ -22,8 +22,8 @@ Run on android
 
 
 ### Who do I talk to? ###
-* https://reactaz.com
-* https://support.reactaz.com
+* [Build app Faster with ReactAZ](https://reactaz.com/?utm_source=github&utm_medium=talk2pro_material_list)
+* [ReactAZ Community Support](https://support.reactaz.com/?utm_source=github&utm_medium=talk2pro_material_list)
 
 ### Pro version ###
-* https://reactaz.com/downloads/material-design-ecommerce-react-native-full-theme/
+* [Material Design eCommerce React Native Full Theme](https://reactaz.com/downloads/material-design-ecommerce-react-native-full-theme/?utm_source=github&utm_medium=free2pro_material_listing)
