@@ -6,7 +6,7 @@
 * Quick summary
 Material Listing Ecommerce helps you create the listing screen quickly and professionally. It's easy to customize and develop. [Demo Video](https://www.youtube.com/watch?v=z6sQe9mrmJk)
 * Version 1.0
-* ![Demo Gif](http://g.recordit.co/a8dQX18u8p.gif)
+![Demo Gif](http://g.recordit.co/a8dQX18u8p.gif)
 ![Demo Gif](http://g.recordit.co/q2cNY3Jb6l.gif)
 
 ### Installation ###
